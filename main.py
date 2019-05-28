@@ -1,4 +1,8 @@
-import requests
+__author__ = 'Callum'
+# -*- encoding: utf-8 -*-
+# Python 3.7.3
+#
+#import requests
 
 def hello_world(request):
     request_json = request.get_json()
